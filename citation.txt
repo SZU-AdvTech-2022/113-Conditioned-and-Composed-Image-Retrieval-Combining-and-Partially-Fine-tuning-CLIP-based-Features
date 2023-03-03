@@ -1,0 +1,8 @@
+@INPROCEEDINGS{9857242,
+  author={Baldrati, Alberto and Bertini, Marco and Uricchio, Tiberio and Del Bimbo, Alberto},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={Conditioned and Composed Image Retrieval Combining and Partially Fine-tuning CLIP-based Features}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={4955-4964}}
