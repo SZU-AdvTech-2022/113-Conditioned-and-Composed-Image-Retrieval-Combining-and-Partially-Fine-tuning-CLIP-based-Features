@@ -1,4 +1,4 @@
-@inproceedings{REPO-114,
+@inproceedings{REPO-113,
     author = "Baldrati, Alberto and Bertini, Marco and Uricchio, Tiberio and Del Bimbo, Alberto",
     booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
     number = "",
